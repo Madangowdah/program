@@ -4,17 +4,13 @@ class Runner{
 	new Tree();
 	new Postbox();
 	new Tripod();
-
-
 	new Zip();
 	new Wardrobe();
 	new Niraksha();
 	new Coin();
 	new Selfiestick();
-
-	new Furniture();
+        new Furniture();
 	new Poster();
-	
 	new Camera();
 	new Helmet();
 	Postbox postBox=new Postbox();
@@ -70,7 +66,7 @@ class Runner{
 	System.out.println("helmet:"+helmet.brand);
 	System.out.println("---------------------------------------------------------------------------");
 	
-    tree.nameOfTree="neem tree";
+        tree.nameOfTree="neem tree";
 	postBox.loc="mysore";
 	tripod.brand="sony";
 	niraksha.dressColor="red";
