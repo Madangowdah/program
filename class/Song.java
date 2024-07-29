@@ -16,7 +16,7 @@ String song10 = "Sona Sona";
 
 String[] songs = {song1,song2,song3,song4,song5,song6,song7,song8,song9,song10};
 
-for(int name=9;name<songs.length;name--)
+for(int name=songs.length-1;name>=0;name--)
 {
 	
 String ref = songs[name];
