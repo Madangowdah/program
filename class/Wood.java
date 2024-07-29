@@ -17,8 +17,7 @@ System.out.println(qwe.range);
 System.out.println(qwe.cost);
 System.out.println(qwe.check);
 System.out.println("the value is :"+qwe.data+  "end");
-qwe.name = "java";
-System.out.println(qwe.name);
+
 }
 
 }
